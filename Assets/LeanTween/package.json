@@ -1,0 +1,16 @@
+{
+  "name": "com.modernwestern.dentedpixel.leantween-package",
+  "displayName": "LeanTween",
+  "version": "2.5.0",
+  "description": "Animation tool for use in Unity projects and Unity packages.",
+  "type": "Library",
+  "keywords": [
+    "UI",
+    "GameObject"
+  ],
+  "category": "Animation",
+  "repository": {
+    "url": "https://github.com/ModernWestern/unity.dentedpixel-leantween-package.git",
+    "type": "git"
+  }
+}
