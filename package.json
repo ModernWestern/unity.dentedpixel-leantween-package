@@ -1,5 +1,5 @@
 {
-  "name": "com.modernwestern.dentedpixel.leantween-package",
+  "name": "com.dentedpixel.leantween",
   "displayName": "LeanTween",
   "version": "2.5.0",
   "description": "Animation tool for use in Unity projects and Unity packages.",
